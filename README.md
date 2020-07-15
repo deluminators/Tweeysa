@@ -5,11 +5,17 @@ We aim to provide solutions for advanced sentimental analysis on the data fetche
 
 ## Features -
 -We aim to provide features to detect and solve fake news and problems arising from them, apart from the sentimental analysis benefits that it provides.
+
 -Availability of a fully functional dashboard kind structural interface from where we can visualise, plot graphical representation of statistics and trace the location of needs with severity levels as and when required.
+
 -Analysis medium for analyzing the hatred content of any location and thus predicting any state of tension or mob formation that might be developed in that particular location. 
+
 -Tool for Predicting information about where people find difficulties in the lockdown and post lockdown scenario region wise and thus predicting the sorts of problems they might be facing and informing the required authorities.
+
 -Analysis tool for crowd prediction based on specific tags region wise. Informing local authorities regarding anything particular happening over a region so as to get quick help. 
+
 -Tracing widget for tracking the highly used fake information surfacing over the internet which certainly creates tension, superstition or unwanted malpractices and activities, thus informing the concerned authorities to prevent them beforehand. 
+
 -Medium for providing specific data to the Organisations and NGOs working for providing support to the people affected by the lockdown who require help for transportation, food, supplies and other facilities. 
 
 
